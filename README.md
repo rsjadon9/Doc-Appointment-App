@@ -46,10 +46,15 @@ npm install
 
 7. Project Structure
 client: Contains the React.js frontend code.
+
 server: Contains the Node.js and Express.js backend code.
+
 models: Defines MongoDB schema models.
+
 routes: Handles API routes for the application.
+
 controllers: Contains logic for handling route requests.
+
 middlewares: Custom middleware functions for authentication and authorization.
 
 
