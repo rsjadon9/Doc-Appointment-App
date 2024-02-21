@@ -32,15 +32,19 @@ Welcome to the Doctor Appointment Portal, a web application developed using the 
    cd doctor-appointment-portal
 
   2. Install dependencies for both the client and server:npm install
+  3. npm install
 cd client
 npm install
 
-  3. Set up your MongoDB database and update the database connection string in the server configuration files.
-  4. Run the application:
-   npm run dev
-5. Access the application in your browser at http://localhost:3000.
 
-6. Project Structure
+
+  4. Set up your MongoDB database and update the database connection string in the server configuration files.
+  5. Run the application:npm run dev
+
+     
+6. Access the application in your browser at http://localhost:3000.
+
+7. Project Structure
 client: Contains the React.js frontend code.
 server: Contains the Node.js and Express.js backend code.
 models: Defines MongoDB schema models.
