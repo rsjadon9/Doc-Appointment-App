@@ -47,11 +47,18 @@ npm run dev
 Access the application in your browser at http://localhost:3000.
 
 Project Structure
+
 client: Contains the React.js frontend code.
+
 server: Contains the Node.js and Express.js backend code.
+
 models: Defines MongoDB schema models.
+
 routes: Handles API routes for the application.
+
 controllers: Contains logic for handling route requests.
+
 middlewares: Custom middleware functions for authentication and authorization.
+
 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to help improve the Doctor Appointment Portal.
