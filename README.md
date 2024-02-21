@@ -1,4 +1,5 @@
 Doctor Appointment Portal
+
 Introduction
 Welcome to the Doctor Appointment Portal, a web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to schedule and manage their appointments with doctors conveniently.
 
@@ -8,6 +9,8 @@ Appointment Scheduling: Users can easily schedule appointments with their prefer
 User Dashboard: A personalized dashboard for users to view and manage their upcoming and past appointments.
 Admin Dashboard: Admins have access to a dedicated dashboard to manage doctor schedules, user appointments, and system configurations.
 Responsive UI: The user interface is designed to be responsive, ensuring a seamless experience across devices.
+
+
 Technologies Used
 Frontend: React.js, Ant Design (antd), Bootstrap
 Backend: Node.js, Express.js
