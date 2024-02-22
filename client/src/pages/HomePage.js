@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import axios from "axios";
 import Layout from "./../components/Layout";
+import image from "../images/image.jpg";
 const HomePage = () => {
   // login user data
   const getUserData = async () => {
@@ -24,7 +25,10 @@ const HomePage = () => {
   }, []);
   return (
     <Layout>
+      <div>
       <h1>Home Page</h1>
+      <img src = {image} alt ="Background"/>
+      </div>
     </Layout>
   );
 };
